@@ -1,0 +1,14 @@
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\bin\Debug\netstandard2.0\MyColorPicker.deps.json
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\bin\Debug\netstandard2.0\MyColorPicker.dll
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\bin\Debug\netstandard2.0\ref\MyColorPicker.dll
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\bin\Debug\netstandard2.0\MyColorPicker.pdb
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\obj\Debug\netstandard2.0\MyColorPicker.csprojAssemblyReference.cache
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\obj\Debug\netstandard2.0\MyColorPicker.AssemblyInfoInputs.cache
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\obj\Debug\netstandard2.0\MyColorPicker.AssemblyInfo.cs
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\obj\Debug\netstandard2.0\MyColorPicker.csproj.CoreCompileInputs.cache
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\obj\Debug\netstandard2.0\XamlC.stamp
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\obj\Debug\netstandard2.0\MyColorPicker.dll
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\obj\Debug\netstandard2.0\ref\MyColorPicker.dll
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\obj\Debug\netstandard2.0\MyColorPicker.pdb
+G:\ITM370\MyColorPicker\MyColorPicker\MyColorPicker\MyColorPicker\obj\Debug\netstandard2.0\Views\ColorPickerView.xaml.g.cs
